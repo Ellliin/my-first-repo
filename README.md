@@ -6,4 +6,7 @@ dgbbbb
 dafdfd
 
 testing after config
-kj;lkkjl
+kj;lkkjl trys
+
+
+testing 
