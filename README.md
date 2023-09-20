@@ -5,7 +5,5 @@ gs
 dgbbbb
 dafdfd
 
-making a new commit
-asdfdsaf
-dsfasdf
+testing after config
 kj;lkkjl
